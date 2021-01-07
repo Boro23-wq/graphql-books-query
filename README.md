@@ -5,3 +5,9 @@ Node modules are not included in the course files. After download, run npm insta
 ## GraphQL Query Types
 
 ![screen-capture](./assets/screen-capture.gif)
+
+## Application Screen
+
+![app-screen](./assets/app-screen.png)
+
+
